@@ -24,7 +24,7 @@ Spring Boot, JPA를 활용한 쇼핑몰 예제 프로젝트
 ---
 
 ## 시연 화면
-![ERD](src/main/resources/static/img/jpashop-erd.png)
+![MAIN](src/main/resources/static/img/jpahop-main.png)
 
 ### 회원가입
 ![MAIN](src/main/resources/static/img/join.gif)
