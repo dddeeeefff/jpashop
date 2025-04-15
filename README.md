@@ -19,7 +19,7 @@ Spring Boot, JPA를 활용한 쇼핑몰 예제 프로젝트입니다.
 ---
 
 ## 📂 데이터베이스 구조(ERD)
-![ERD](src/resources/static/img/jpashop-erd.png)
+![ERD](src/main/resources/static/img/jpashop-erd.png)
 
 ---
 
