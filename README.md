@@ -19,3 +19,11 @@ Spring Boot, JPA를 활용한 쇼핑몰 예제 프로젝트입니다.
 ---
 
 ## 📂 프로젝트 구조
+![ERD](WebContent/img/green-erd.png)
+
+---
+
+## 📂 프로젝트 구조
+![ERD](WebContent/img/green-erd.png)
+
+---
