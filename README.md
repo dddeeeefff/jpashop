@@ -1,7 +1,7 @@
 # 🛍️ JPA Shop 프로젝트
 
-Spring Boot, JPA를 활용한 쇼핑몰 예제 프로젝트입니다.  
-회원가입, 상품 등록, 주문, 재고 관리 등 전자상거래의 핵심 기능을 학습하고 실습하는 데 목적이 있습니다.
+Spring Boot, JPA를 활용한 쇼핑몰 예제 프로젝트
+회원가입, 상품 등록, 주문, 재고 관리 등 전자상거래의 핵심 기능을 학습하고 실습
 
 ---
 
@@ -20,6 +20,20 @@ Spring Boot, JPA를 활용한 쇼핑몰 예제 프로젝트입니다.
 
 ## 📂 데이터베이스 구조(ERD)
 ![ERD](src/main/resources/static/img/jpashop-erd.png)
+
+---
+
+## 시연 화면
+![ERD](src/main/resources/static/img/jpashop-erd.png)
+
+### 회원가입
+![MAIN](src/main/resources/static/img/join.gif)
+
+### 상품 등록
+![MAIN](src/main/resources/static/img/item.gif)
+
+### 주문
+![MAIN](src/main/resources/static/img/order.gif)
 
 ---
 
